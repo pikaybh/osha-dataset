@@ -1,0 +1,97 @@
+$(document).ready(function() {
+//$.noConflict();
+
+//var modalAnchor = $('a[name=modal]');
+var overlay = $('#overlay');
+var overlayHeight = $(document).height();
+var overlayWidth = $(document).width();
+var winHeight = $(window).height();
+var winWidth = $(window).width();
+var modal = $('#dialogue'); // Contains approved message
+var btnCont = $('#dialogue button');
+var msgContainer = $('#externalMsg');
+var externals = $("a[href^='http']:not(a[href*='WBComplaint.html'], a[href*='search.usa.gov'], [href*='" + location.hostname.replace("www.", "") + "'], a[href*='.gov'], a[href*='osha.gov'], a[href*='dol.gov'], a[href*='whistleblowers.gov'], a[href*='dol.secure.force.com'], a[href*='suicidepreventionlifeline.org'], a[href*='crisistextline.org'])"); // - last 2 per OPA request
+var nonGovTxt = 'The Department of Labor does not endorse, takes no responsibility for, and exercises no control over the linked organization or its views, or contents, nor does it vouch for the accuracy or accessibility of the information contained on the destination server. The Department of Labor also cannot authorize the use of copyrighted materials contained in linked Web sites. Users must request such authorization from the sponsor of the linked Web site. Thank you for visiting our site. Please click the link below to continue.'
+var govTxt = 'Please click the link below to continue to access the information you are seeking.'
+
+
+externals.each(function() {
+	$(this).click(function(e) {
+		e.preventDefault();
+		dotGovOrnot($(this));
+		modalPop($(this));
+	}).addClass('externalLink');
+});
+
+$('.externalLink').append('<span class="icon-external"></span>');
+
+//Separate governmental from non-governmental links
+function dotGovOrnot(t) {
+	var link = t.attr('href');
+	var ext = '.gov';
+	
+	if(link.indexOf(ext) != -1) {
+		var msg = govTxt;
+		msgContainer.html(msg);
+	} else {
+		var msg = nonGovTxt;
+		msgContainer.html(msg);
+	}
+}
+
+//Display modal window and approved message
+function modalPop(t) {
+	href = t.attr('href');
+	overlay.css({'width' : overlayWidth, 'height' : overlayHeight});
+	overlay.fadeTo(500, 0.8);
+	
+	modal.css('top', winHeight/2 - modal.height()/2);
+	modal.css('left', winWidth/2 - modal.width()/2);
+	modal.fadeIn(1000);
+
+	$('#externalLink').html('<a href="' + href + '" title="External Link" rel="noreferrer">' + href + '</a>');
+	
+	var kc_Enter = 13;
+	var kc_Esc = 27;
+	$(document).keyup(function(e) {
+		if(e.keyCode == kc_Enter) {
+			window.location.href = href;
+			closeModal();
+		}
+		if(e.keyCode == kc_Esc) {
+			closeModal();
+		}
+	});
+	//Click the continue button
+	btnCont.click(function() {
+		window.location.href = href;
+		//window.open(href);
+		closeModal();
+	});
+}
+//Close modal window
+$('.window .close-redirect').click(function(e) {
+	e.preventDefault();
+	closeModal();
+});
+overlay.click(function() {
+	closeModal();
+});
+
+//When window is resized
+$(window).resize(function() {
+	overlayHeight = $(document).height();
+	overlayWidth = $(document).width();
+	winHeight = $(window).height();
+	winWidth = $(window).width();
+	
+	modal.css('top', winHeight/2 - modal.height()/2);
+	modal.css('left', winWidth/2 - modal.width()/2);
+});
+//Actions to close the modal window
+function closeModal() {
+	overlay.fadeOut(200);
+	$('.window').fadeOut(500);
+}
+
+}); 

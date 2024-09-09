@@ -1,0 +1,51 @@
+$(document).ready( function() {
+//controls show/hide all button for accordions
+//use <a data-parent=".accordion id" href="javascript:void();" title="Show/Hide All" data-collapse="0" class="btn btn-danger hidden-print btn-accordion">Show/Hide All</a>
+	$('.btn-accordion').click( function() {
+		var boo = $(this).data('collapse');
+		var foo = $(this).data('parent');
+		if (boo == 0) {
+			$(this).data('collapse',1);
+			$(foo).find('.accordion-body').collapse('show');
+		} else {
+			$(this).data('collapse',0);
+			$(foo).find('.accordion-body').collapse('hide');
+		}
+	});
+
+//remember last accordion that is opened when user returns to page during same session (JCC)
+	$('.accordion-body').on('shown',function(e) {
+                     localStorage.setItem('lastAccord',$(e.target).attr('id'));
+              });
+              var lastAccord = localStorage.getItem('lastAccord');
+              if (lastAccord) {
+                     $('#'+lastAccord).collapse('show');
+              }
+
+
+//automatically open accordion from outside links
+	if (window.location.hash) {
+		var hash = window.location.hash; //puts hash in variable
+		if ($(hash).length && ($(hash).hasClass('collapse'))) {
+			$(hash).collapse('show');
+			$('html, body').animate({
+				scrollTop: $(hash).offset().top -45}, 1000);
+		}
+	}
+
+//automatically open modals from outside links
+	if (window.location.hash) {
+		var hash = window.location.hash; //puts hash in a variable
+		if ($(hash).length && ($(hash).hasClass('modal'))) {
+			$(hash).modal('show');
+		}
+	}
+}); //end document ready
+
+//open accordion from an internal link
+//use <a href="javascript:void();" title="TITLE" onClick="toAccordion(.accordion-body id)">TITLE</a> and add comment tags around the link for the next user
+function toAccordion (goto) {
+	$(goto).collapse('show');
+	$('html, body').animate ({
+		scrollTop: $(goto).offset().top -45}, 1000);
+}

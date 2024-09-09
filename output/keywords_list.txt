@@ -1,0 +1,1290 @@
+abdomen
+abrasion
+abrasive blasting
+abrasive burn
+abrasive wheel
+accelerator pedal
+access/egress
+accidental discharge
+acetylene
+acetylene torch
+adhesive
+adjust
+advertising sign
+aerial lift
+aerial lift controls
+agriculture
+air conditioner
+air contamination
+air hose
+air line
+air pressure
+aircraft
+airport
+alarm
+alcohol
+allergic reaction
+ammonia
+amputated
+amputation
+amusement ride
+anchor
+aneurism
+aneurysm
+anhydrous ammonia
+animal
+animal bite
+ankle
+antenna
+arc welding
+argon
+arm
+artery
+asbestos
+asbestos removal
+ascending
+asphalt
+asphyxiated
+assembling
+assembly line
+attachment hook
+attachment plug
+attic
+atv
+auger
+auger mechanism
+automobile
+automotive repair
+avulsion
+axle
+back
+back-up alarm
+backhoe
+backhoe boom
+backhoe bucket
+backing up
+balcony
+bandsaw
+barge
+barn
+barricade
+barrier guard
+basement
+basket
+battery
+battery charger
+beam
+belt
+belt conveyor
+bending machine
+bladder
+blade
+blast furnace
+blasting
+bleach
+bleeding
+blind spot
+blocks
+blood clot
+blowout--tire
+blunt force
+blunt force trauma
+board
+boat
+boiler
+bolt
+bolting
+boom
+boom support cable
+boom truck
+boring machine
+bosun chair
+boulder
+brace
+bracing
+brain
+brain bleed
+brake
+brake failure
+breathing
+brick
+bridge
+bridge column
+bridge deck
+bridging
+broke
+broken
+broken bone
+broken cable
+broken chain
+broken weld
+broom
+bucket
+bucket elevator
+bucket truck
+building
+building collapse
+bulldozer
+bundle
+buried
+burn
+bus
+busbar
+buttocks
+cable
+cable logging
+cable tv work
+cage
+canal
+capacitor
+carbon dioxide
+carbon monoxide
+carboxyhemoglobin
+cardiac arrest
+cardiovasc disease
+cardiovasc system
+carpenter
+carry
+cart
+caster
+catch point
+cathead
+catwalk
+caught between
+caught by
+caught in
+caustic
+cave-in
+ceiling
+ceiling panel
+cement powder
+cementing
+chain
+chain saw
+chemical
+chemical burn
+chemical exposure
+chemical reaction
+chemical vapor
+chest
+chest pain
+chimney
+chipper
+chlorine
+chock
+choker
+choker cable
+circuit breaker
+circular saw
+circulatory blockage
+clavicle
+cleaning
+cleaning fluid
+clearance
+clearing
+climbing
+climbing on column
+climbing on ladder
+clogged
+clothing
+clutch
+coal
+coal tar pitch
+coating operation
+coffer dam
+coke drum
+collapse
+collapsed lung
+collarbone
+collision
+column
+combustible liquid
+commercial building
+commercial diving
+communication
+communication cable
+communication tower
+communication worker
+competent person
+compound fracture
+compressed air
+compressed by
+compressed gas
+compressor
+concrete
+concrete beam
+concrete block
+concrete float
+concrete floor
+concrete form work
+concrete mixer
+concrete panel
+concrete pavement
+concrete pipe
+concrete pump
+concrete slab
+concrete surface
+concrete truck
+concussion
+conductor
+conduit
+confined space
+construction
+construction vehicle
+contact
+container
+control lever
+control lines
+contusion
+conveyor
+conveyor belt
+cord connector
+cord set
+coronary artery disease
+corrosion
+cotter pin
+cotton
+counterbalance
+couplings
+cover
+cpr
+cramp
+crane
+crane block
+crane boom
+crane cab
+crane counterweight
+crane hook
+crane lifting beam
+crane load
+crane operator
+crane outrigger
+crate
+crawl space
+crawler crane
+crushed
+crusher
+crushing
+cut
+cutout switch
+cutting
+cutting and burning
+cyanide
+cylinder
+dam
+danger zone
+deadman control
+debris
+decapitated
+deck
+decking
+decking panel
+defect
+defective
+defective equipment
+degloved
+degloving
+dehydration
+delivery work
+demolish
+demolition
+derrick
+derrick truck
+descending
+descending ladder
+diabetes
+die
+diesel fuel tank
+dig
+digger/derrick
+disassemble
+disconnecting means
+disintegrated
+dislocated
+dismantling
+distracted
+distracted driving
+distribution center
+ditch
+diver
+diving
+diving helmet
+dizziness
+dock
+door
+dozer blade
+dragged
+dragline
+drain pipe
+drain plug
+drill
+drill bit
+drill operator
+drill pipe
+drill rig--non-oil
+drilling
+drilling mud
+drive shaft
+driver
+driving
+drown
+drowning
+drug overdose
+drum
+drywall
+duct
+dump truck
+dump truck bed
+dumper
+dumpster
+dunnage
+dust inhalation
+e c
+e c (construction)
+ear
+earthmoving equip
+ejected
+elbow
+elderly
+elec circ part--misc
+elec equipment--misc
+elec insulation
+elec port tool--misc
+elec protect equip
+elec utility work
+electric arc
+electric arc flash
+electric cable
+electric conductor
+electric cord
+electric current
+electric drill
+electric generator
+electric light--port
+electric motor
+electric pump
+electric saw
+electric shock
+electric switch
+electrical
+electrical box
+electrical burn
+electrical cabinet
+electrical fault
+electrical panel
+electrical splice
+electrical testing
+electrical vault
+electrical wire
+electrical work
+electrician
+electrocuted
+electronic equipment
+electronic technicn
+elevated
+elevated work plat
+elevated work platform
+elevator
+elevator gate
+elevator shaft
+embankment
+emergency response
+enclosed space
+energized
+engine
+engineering controls
+engineering technician
+engulfed
+entangled
+equipment approval
+equipment failure
+equipment grounding
+equipment operator
+erection process
+ergonomic
+escalator
+excavation
+excavator
+exertion
+exhaust fumes
+exhaust system
+explosion
+explosives
+extension handle
+extension ladder
+eye
+eye protection
+face
+fainted
+fall
+fall from elevation
+fall on same level
+fall protection
+falling object
+fan
+fan belt
+fan blade
+farm machinery
+fatigue
+fell asleep
+feller-buncher
+fence
+fiberglass
+fibula
+fighting
+filling
+finger
+fingertip
+fire
+fire brigade/department
+fire escape
+fire ext system
+fire extinguisher
+firefighter
+fixed ladder
+flagger
+flagman
+flammable liquid
+flammable vapors
+flatbed rail car
+flatbed trailer
+flatbed truck
+floor
+floor hole
+floor opening
+flooring
+flying object
+foot
+foot control
+foot pedal
+foot-powered press
+footings
+forearm
+forehead
+forklift
+forks
+form work
+forming
+fracture
+frame
+framing
+front end loader
+frozen
+fuel oil
+fuel pipe
+fuel tank
+fuel truck
+furnace
+fuse
+gantry crane
+garbage truck
+gas
+gas can
+gas generator
+gas leak
+gas-fired boiler
+gasket
+gasoline
+gate
+gear
+gin pole
+girder
+glass
+glove
+glue
+grader
+grain bin
+grain elevator
+grating
+grinder
+grinding machine
+grinding wheel
+grocery store
+ground
+ground fault
+ground fault circuit interrupter (gfci)
+grounding electrode
+guard
+guardrail
+guide
+gun
+gunfire
+gunshot
+gutter
+guy
+h-beam
+hammer
+hand
+hand brake
+hand tool
+hand winch
+handrail
+hard hat
+harness
+hatch
+haulback line
+hazard communication
+head
+headache
+headache ball
+hearing loss
+heart
+heart attack
+heat
+heat exchanger
+heat exhaustion
+heat index
+heat injury prevention program
+heat stroke
+heat-related illness
+heater
+helicopter
+hemorrhage
+hexane
+high blood pressure
+high pressure
+high pressure pipe
+high temperature
+high voltage
+high wind
+highway
+highway shoulder
+highway work zone
+hill
+hip
+hoist
+hoisting mechanism
+hoistline
+hole
+hopper
+horn
+horseplay
+hose
+hospital
+hot asphalt
+hot tar
+hot water
+hot water tank
+hot work
+housekeeping
+hvac
+hydraulic
+hydraulic crane
+hydraulic cylinder
+hydraulic equipment
+hydraulic fluid
+hydraulic jack
+hydraulic lift
+hydraulic line
+hydraulic press
+hydraulic ram
+hydraulic tool
+hydrochloric acid
+hydrofluoric acid
+hydrogen chloride
+hydrogen fluoride
+hydrogen sulfide
+hypertension
+icy
+ignite
+illness
+impaled
+inadequate maint
+inattention
+ind trk operator
+industrial truck
+inexperience
+infection
+infectious disease
+inflating
+inhalation
+injected
+injection
+injury illness prevention program
+inspecting
+inspection
+installing
+instantaneous amputation
+insufficient supervision
+insulated tool
+insulation
+insulator
+interlock
+internal
+internal bleeding
+internal injuries
+intoxicated
+iron
+iron worker
+irrigation pipe
+jack
+jackhammer
+jammed
+janitor
+jaw
+jib crane
+joist
+jump
+jump from moving equip
+jump on moving equip
+jump start
+jumping
+kick back
+kidney
+kiln
+knee
+knife
+laborer
+laceration
+lack of engineering controls
+lack of oxygen
+lack of work procedures
+lacquer
+lacquer thinner
+ladder
+ladder jack scaffold
+landfill
+landscaper
+landscaping
+lanyard
+lathe
+lawn mower
+leading edge
+leak
+leaning over
+leg
+legionnaires disease
+life jacket
+lifeline
+lift bucket
+lift operator
+lifting
+ligament
+lighting
+lighting circuit
+lighting fixture
+lightning
+limit switch
+line connector
+liver
+load line
+load shift
+loader
+loader bucket
+loader/backhoe
+loading
+loading dock
+loading ramp
+locking pins
+lockout
+lockout/tagout
+locomotive
+lodged tree
+log
+logger
+logging
+loss of blood
+loss of consciousness
+lost balance
+lost consciousness
+lost control
+lp gas
+lpg container
+lubricating
+lumbar fracture
+lumbar injury
+lumber
+lumber stack
+lung
+machine guarding
+machine operator
+magnet
+maintenance
+malfunction
+manhole
+manhole cover
+manual mat handling
+marking
+masonry
+masonry wall
+material handling
+maul
+mdi
+measuring device
+mech malfunction
+mech mat handling
+mechanic
+medical condition
+medical history
+medication
+mek
+metal
+metal bar
+metal decking
+metal ladder
+metal pipe
+metal pole
+metal saw
+metal sheet
+metal siding
+metal strip
+metal wire
+midrail
+mill--plant
+milling machine
+millwright
+misjudgment
+misjudgment of hazardous situation
+mixer
+mixer blade
+mobile crane
+mobile home
+mobile scaffold
+mold
+molding machine
+molten slag
+motor vehicle
+mouth
+mud pit
+mud pump
+multi-employer worksite
+multiemployer
+multipiece rim wheel
+nail
+nail gun
+natural causes
+natural gas
+nausea
+neck
+nerve damage
+net
+nip point
+nitrogen
+noise
+nose
+obesity
+obstructed egress
+obstructed rear view
+obstructed view
+off loading
+office area
+oil drum
+oil line
+oil rig
+oil tank
+oil well drilling
+oil well servicing
+open flame
+open shaft
+open valve
+open-sided floor
+opening
+operating
+operator
+optical fiber cable
+outrigger
+oven
+overcome by gas
+overcome by vapors
+overexposure
+overhead crane
+overhead door
+overhead guard
+overhead power line
+overhead protection
+overheated
+overloaded
+overpressure
+overturn
+owner
+oxygen
+oxygen deficiency
+paint
+paint solvent
+painter
+painting
+pallet
+palletized cargo
+panel
+panelboard
+paper
+paper roll
+paralysis
+partial amputation
+patio
+pavement
+pedestrian
+pelvis
+penis
+perimeter guarding
+personnel cage
+pesticide
+pickup truck
+pier
+pile driver
+pile leads
+piling
+pilot light
+pin
+pinch point
+pinched
+pinned
+pipe
+pipe plug
+pipe wrench
+pipeline
+piston
+pit
+piv
+plank
+planking
+plaster
+platform
+plug adapter
+plumbing
+plywood
+pneumatic
+pneumatic equipment
+point of operation
+poisoning
+polyisocyanate
+pool
+poor visibility
+portable power tool
+pouring
+powder
+powder actuated tool
+power line worker
+power lines
+power plant
+power roller
+power take-off
+power trans appar
+power washer
+powered industrial vehicle
+ppe
+ppe hazard assessment
+precast
+preexisting condition
+press
+press brake
+press operator
+pressure
+pressure release
+pressure vessel
+pressure wash
+printer
+projectile
+propane
+propane torch
+propelled
+protective clothing
+protective grounding
+pry bar
+public transportation
+pulley
+pulmonary edema
+pulmonary embolism
+pump
+pump jack scaffold
+punch press
+puncture
+puncture wound
+rafter
+rail
+railroad
+railroad car
+railroad track
+raised
+ramp
+reaching
+reaching from ladder
+reactor
+rebar
+receptacle
+recordkeeping
+records
+refinery
+reflective vest
+rehabilitation
+remodel
+remote control
+removal
+removing
+renovation
+repair
+residential construction
+respirator
+respiratory
+respiratory tract
+restraining device
+retaining wall
+rib
+riding on equipment
+rigging
+ring
+river
+road
+road grader
+road paving
+rock
+roll-over
+roller conveyor
+roller--const equip
+roller--mach/part
+rolling
+roof
+roof bracket
+roof collapse
+roof decking
+roof dormer
+roof opening
+roof opening cover
+roof panel
+roofer
+roofing
+rope
+rops
+rotary hammer
+rotating drill bit
+rotating knife
+rotating parts
+rotating shaft
+rotor
+run over
+rupture
+safety bar
+safety belt
+safety block
+safety control line
+safety device
+safety latch
+safety relief valve
+safety shoe
+sand
+sandblasting
+saw
+sawblade
+sawdust
+sawmill
+scaffold
+scaffold collapse
+scaffold pic
+scaffold rigging
+scaffolding
+scalp
+scba
+scissor lift
+scrap metal
+scraper
+screen
+screw
+screw conveyor
+seal
+sealing machine
+seat belt
+security guard
+seizure
+self-propelled
+sensor
+service technician
+set screw
+set up
+severed
+sewage
+sewer
+shackle
+shaft
+sharp turn
+shear
+sheared
+sheet metal
+sheetrock
+shingles
+ship
+shipyard
+shock
+shoring
+shortness of breath
+shot
+shoulder
+shoulder bone
+shovel
+side view mirror
+siding
+signalman
+silo
+single piece rim
+single story
+site clearing
+site preparation
+skid steer loader
+skidder
+skin
+skull
+skylight
+slag track
+slid
+slide
+sling
+slip
+slippery surface
+slope
+sloping
+smoke
+smoke inhalation
+smoking
+snow
+snowplow blade
+snowy
+sodium hydroxide
+soffit
+soil
+solar
+solar array
+soldering torch
+spark
+speeding
+spill
+spindle
+spine
+splashed
+spleen
+sprain
+spray painting
+sprayed
+spraying rig
+spreader bar
+sprocket
+stacker crane
+staffing agency
+stair
+stair landing
+stakes
+stand-up operator
+standpipe
+started in gear
+static electricity
+steam
+steam line
+steel
+steel beam
+steel column
+steel connecting
+steel connector
+steel erection
+steel plate
+steel tube
+steep grade
+steering wheel
+step
+step bolt
+stepladder
+stomach
+stop switch
+storage area
+storage rack
+storage room
+storage tank
+storm
+strain
+strangulated
+strap
+streetlighting
+stripping machine
+stroke
+struck against
+struck by
+structural collapse
+structure fire
+structure moving
+stucco
+stuck
+styrene
+subdural hematoma
+suffocated
+suicide
+sulfur dioxide
+sulfuric acid
+sump tank
+supervision
+supervisor
+support cable
+support posts
+surgical amputation
+surveyor
+suspended ceiling
+suspended load
+suspension strand
+sweeper
+swelling
+switchgear
+table saw
+tag line
+tailgate
+tank
+tank truck
+teacher
+technician
+telecom work
+temperature
+temporary employment agency
+temporary floor
+temporary lighting
+temporary worker
+tendon
+test equipment
+testing
+thermal insulation
+thigh
+throat
+thumb
+tibia
+tie wire
+tie-off
+tile
+tiller
+tip
+tips over
+tire
+tire rim
+toe
+toluene
+tongs
+top plate
+torch
+torch cutting
+torso
+tote box
+tow truck
+towed equipment
+tower
+tower crane
+toxic atmosphere
+toxic fumes
+tracks
+tractor
+tractor trailer
+tractor--truck
+traffic accident
+traffic barrel
+traffic control
+trailer
+trailer hitch
+trailer truck
+train
+training
+transformer
+transmission tower
+transportation
+trapped
+trash bin
+trash compactor
+traumatic
+traumatic amputation
+traumatic brain injury
+tree
+tree felling
+tree limb
+tree section
+tree stumping
+tree trimming
+trench
+trench box
+trench digger
+trip rod
+tripped
+troubleshooting
+truck
+truck boom
+truck crane
+truck driver
+truss
+tubular scaffold
+tunnel
+two pt susp scaffold
+unacclimatized
+unconsciousness
+underlying medical condition
+undrgrd installation
+undrgrd power line
+uneven
+uneven ground
+unguarded
+unguarded fl opening
+unguarded live parts
+unloading
+unmanned
+unprotected
+unresponsive
+unsafe position
+unsecured
+unsecured panel
+unstable load
+unstable position
+unstable soil
+unstable surface
+untrained
+unwitnessed
+utility
+utility pole
+v-belt
+valve
+vapor
+vehicle
+vehicle in gear
+ventilation
+vertebra
+vibrations
+voltage backfeed
+vomit
+walk platform
+walk-behind forklift
+walking backward
+walking on beam
+walking on plank
+walking surface
+wall
+warehouse
+warning line
+warning sign
+washing machine
+water
+water heater
+water hose
+water pipe
+water tank
+water tower
+water treatment plant
+water well
+waterproofing
+weather
+welder
+welding
+well
+wet
+wheel
+wheel loader
+winch
+window
+windy
+wing
+wire rope
+wood
+wood board
+wood chips
+wood erection
+wood panel
+wood shaper
+wood slab
+work at elevation
+work platform
+work rules
+work station
+work surface
+work zone
+working alone
+workplace violence
+wrench
+wrist
+wrong equipment

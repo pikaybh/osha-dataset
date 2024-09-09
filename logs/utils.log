@@ -1,0 +1,42 @@
+﻿2024-08-28 17:32:09,601 [utils, line 68] INFO: url = 'https://www.osha.gov/ords/imis/accidentsearch.accident_detail?id=164402.015'
+2024-08-28 17:32:10,095 [utils, line 68] INFO: url = 'https://www.osha.gov/ords/imis/accidentsearch.accident_detail?id=164183.015'
+2024-08-28 17:32:10,663 [utils, line 68] INFO: url = 'https://www.osha.gov/ords/imis/accidentsearch.accident_detail?id=163995.015'
+2024-08-28 17:32:11,142 [utils, line 68] INFO: url = 'https://www.osha.gov/ords/imis/accidentsearch.accident_detail?id=167122.015'
+2024-08-28 17:32:11,650 [utils, line 68] INFO: url = 'https://www.osha.gov/ords/imis/accidentsearch.accident_detail?id=162549.015'
+2024-08-28 17:32:12,211 [utils, line 68] INFO: url = 'https://www.osha.gov/ords/imis/accidentsearch.accident_detail?id=162314.015'
+2024-08-28 17:32:12,679 [utils, line 68] INFO: url = 'https://www.osha.gov/ords/imis/accidentsearch.accident_detail?id=162411.015'
+2024-08-28 17:32:13,245 [utils, line 68] INFO: url = 'https://www.osha.gov/ords/imis/accidentsearch.accident_detail?id=162301.015'
+2024-08-28 17:32:13,759 [utils, line 68] INFO: url = 'https://www.osha.gov/ords/imis/accidentsearch.accident_detail?id=162194.015'
+2024-08-28 17:38:00,667 [utils, line 69] INFO: <Response [403]>
+2024-08-28 17:38:01,120 [utils, line 69] INFO: <Response [403]>
+2024-08-28 17:38:01,576 [utils, line 69] INFO: <Response [403]>
+2024-08-28 17:38:34,381 [utils, line 69] INFO: ['__attrs__', '__bool__', '__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__enter__', '__eq__', '__exit__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__iter__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__nonzero__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__setstate__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_content', '_content_consumed', '_next', 'apparent_encoding', 'close', 'connection', 'content', 'cookies', 'elapsed', 'encoding', 'headers', 'history', 'is_permanent_redirect', 'is_redirect', 'iter_content', 'iter_lines', 'json', 'links', 'next', 'ok', 'raise_for_status', 'raw', 'reason', 'request', 'status_code', 'text', 'url']
+2024-08-28 17:38:34,853 [utils, line 69] INFO: ['__attrs__', '__bool__', '__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__enter__', '__eq__', '__exit__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__iter__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__nonzero__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__setstate__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_content', '_content_consumed', '_next', 'apparent_encoding', 'close', 'connection', 'content', 'cookies', 'elapsed', 'encoding', 'headers', 'history', 'is_permanent_redirect', 'is_redirect', 'iter_content', 'iter_lines', 'json', 'links', 'next', 'ok', 'raise_for_status', 'raw', 'reason', 'request', 'status_code', 'text', 'url']
+2024-08-28 17:39:19,006 [utils, line 69] INFO: url = 'https://www.osha.gov/ords/imis/accidentsearch.accident_detail?id=164402.015'
+2024-08-28 17:39:19,335 [utils, line 69] INFO: url = 'https://www.osha.gov/ords/imis/accidentsearch.accident_detail?id=164183.015'
+2024-08-28 17:40:36,801 [utils, line 71] INFO: response = <Response [403]>
+2024-08-28 17:56:48,339 [utils, line 71] INFO: response = <Response [403]>
+2024-08-28 18:04:03,544 [utils, line 73] INFO: response = <Response [403]>
+2024-08-28 18:04:03,596 [utils, line 73] INFO: response = <Response [403]>
+2024-08-28 18:04:03,645 [utils, line 73] INFO: response = <Response [403]>
+2024-08-28 18:04:03,723 [utils, line 73] INFO: response = <Response [403]>
+2024-08-28 18:04:03,770 [utils, line 73] INFO: response = <Response [403]>
+2024-08-28 18:04:03,819 [utils, line 73] INFO: response = <Response [403]>
+2024-08-28 18:04:03,866 [utils, line 73] INFO: response = <Response [403]>
+2024-08-28 18:04:03,972 [utils, line 73] INFO: response = <Response [403]>
+2024-08-28 18:04:04,046 [utils, line 73] INFO: response = <Response [403]>
+2024-08-28 18:04:04,092 [utils, line 73] INFO: response = <Response [403]>
+2024-08-28 18:04:04,136 [utils, line 73] INFO: response = <Response [403]>
+2024-08-28 18:04:04,182 [utils, line 73] INFO: response = <Response [403]>
+2024-08-28 18:06:55,709 [utils, line 77] INFO: response = <Response [403]>
+2024-08-28 18:07:21,601 [utils, line 77] INFO: response = <Response [403]>
+2024-08-28 18:07:23,717 [utils, line 77] INFO: response = <Response [403]>
+2024-08-28 18:11:04,312 [utils, line 77] INFO: response = <Response [403]>
+2024-08-28 18:13:01,910 [utils, line 77] INFO: response = <Response [403]>
+2024-08-28 18:13:01,911 [utils, line 90] ERROR: Error occurred for ID: 164402.015 with status code: 403
+response.headers = {'Server': 'AkamaiGHost', 'Mime-Version': '1.0', 'Content-Type': 'text/html', 'Content-Length': '425', 'Expires': 'Wed, 28 Aug 2024 09:12:58 GMT', 'Date': 'Wed, 28 Aug 2024 09:12:58 GMT', 'Connection': 'close', 'Strict-Transport-Security': 'max-age=31536000 ; includeSubDomains'}
+response.text = '<HTML><HEAD>\n<TITLE>Access Denied</TITLE>\n</HEAD><BODY>\n<H1>Access Denied</H1>\n \nYou don\'t have permission to access "http&#58;&#47;&#47;www&#46;osha&#46;gov&#47;ords&#47;imis&#47;accidentsearch&#46;accident&#95;detail&#63;" on this server.<P>\nReference&#32;&#35;18&#46;4d6aa2b6&#46;1724836378&#46;b9b24ce\n<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;4d6aa2b6&#46;1724836378&#46;b9b24ce</P>\n</BODY>\n</HTML>\n'
+2024-08-28 18:13:04,869 [utils, line 77] INFO: response = <Response [403]>
+2024-08-28 18:13:04,869 [utils, line 90] ERROR: Error occurred for ID: 164183.015 with status code: 403
+response.headers = {'Server': 'AkamaiGHost', 'Mime-Version': '1.0', 'Content-Type': 'text/html', 'Content-Length': '425', 'Expires': 'Wed, 28 Aug 2024 09:13:01 GMT', 'Date': 'Wed, 28 Aug 2024 09:13:01 GMT', 'Connection': 'close', 'Strict-Transport-Security': 'max-age=31536000 ; includeSubDomains'}
+response.text = '<HTML><HEAD>\n<TITLE>Access Denied</TITLE>\n</HEAD><BODY>\n<H1>Access Denied</H1>\n \nYou don\'t have permission to access "http&#58;&#47;&#47;www&#46;osha&#46;gov&#47;ords&#47;imis&#47;accidentsearch&#46;accident&#95;detail&#63;" on this server.<P>\nReference&#32;&#35;18&#46;4c6aa2b6&#46;1724836381&#46;f27721a\n<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;4c6aa2b6&#46;1724836381&#46;f27721a</P>\n</BODY>\n</HTML>\n'
