@@ -75,7 +75,7 @@ $ python inspection_detail.py --input-file_path Summary_Nrs.txt
 
 Logs are automatically created and stored in the `logs/` directory. The logging format includes timestamps and relevant information about the operations being performed.
 
-##Output
+## Output
 
 The output data is saved in the following formats:
 
